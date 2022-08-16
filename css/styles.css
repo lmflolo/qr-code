@@ -35,7 +35,7 @@ p {
 }
 
 .qr-code-img {
-  border-radius: 20px;
+  border-radius: 10px;
   display: block;
   margin: 15px auto;
   max-width: 90%;
