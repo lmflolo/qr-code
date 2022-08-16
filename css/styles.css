@@ -9,7 +9,7 @@ h1 {
   font-size: 25px;
   /*font-weight: 700;*/
   margin: 30px auto 20px;
-  width: 75%;
+  width: 288px;
 }
 
 p {
@@ -18,14 +18,14 @@ p {
   /*font-weight: 400;*/
   margin: 0 auto;
   padding-bottom: 50px;
-  width: 70%;
+  width: 265px;
 }
 
 .container {
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
   margin: 100px auto;
-  width: 30%;
+  width: 384px;
 }
 
 .qr-code-img {
